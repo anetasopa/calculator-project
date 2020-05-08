@@ -1,0 +1,19 @@
+.button {
+  display: flex;
+  height: 4em;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: lightgrey;
+  color: black;
+  outline: 1px solid black;
+  cursor: pointer;
+}
+
+.operator {
+  background-color: coral;
+  color: white;
+}
+
